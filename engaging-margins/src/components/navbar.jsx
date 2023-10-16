@@ -1,6 +1,6 @@
 export default function NavBar(){
     return(
-        <>
+        <div className="sticky top-0">
         <div className="navbar bg-base-100">
   <div className="flex-1">
     <a className="btn btn-ghost normal-case text-xl">Engaging the Margins</a>
@@ -16,6 +16,6 @@ export default function NavBar(){
     </ul>
   </div>
 </div>
-        </>
-    )
+        </div>    
+)
 }

@@ -11,6 +11,17 @@ export default function Goals() {
             </ol> 
             <p className='text-3xl mb-10 mt-5'>Using a multi-modal approach, the project will examine how researchers and technologists can best learn to engage in data-centric research with marginalized communities in an ethically and socially responsible manner that centers the rights and values of the communities of interest. Culturally relevant approaches and grounding philosophies will drive the research methods and analyses. Through surveys, semi-structured interviews, design workshops utilizing a combination of participatory design and community-based approaches, as well as case study analysis to collect qualitative and quantitative data, the research team will develop an intervention that supports technologists in responsible engagement. Aside from real world implementation, this project will share its findings through a combination of academic and community-facing venues, such as journal publications, conference presentations as well as op-eds, blogs, workshops, and social media.
             </p>
+
+
+            <div>
+            <ul className="steps steps-vertical lg:steps-horizontal w-full">
+            <li data-content="★" className="step step-secondary font-bold">Grant Awarded</li>
+            <li data-content="Y1" className="step step-secondary font-bold">Survey & Interviews</li>
+            <li data-content="Y2" className="step"><p className="flex flex-wrap w-20 text-left">Professional Development Workshops</p></li>
+            <li data-content="Y3" className="step"><p className="flex flex-wrap w-20 text-left">Implementation & Controlled User Study</p></li>
+            <li data-content="Y5" className="step"><p className="flex flex-wrap w-20 text-left">Case/Field Study</p></li>
+            </ul>
+            </div>
  
 
         </div>
