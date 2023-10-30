@@ -30,19 +30,19 @@ export default function Team() {
         {
             "name":"Meme Styles",
             "image":ms,
-            "title":"President and Founder of MEASURE",
+            "title":"President and Founder of Measure",
             "role":"External Collaborator"
         },
         {
             "name":"Precious Azurée",
             "image":pa,
-            "title":"Vice President and Co-Founder of MEASURE",
+            "title":"Vice President and Co-Founder of Measure",
             "role":"External Collaborator"
         },
         {
             "name":"Paulette Blanc",
             "image":pb,
-            "title":"Chief Research Officer at MEASURE",
+            "title":"Chief Research Officer and Co-Founder at Measure",
             "role":"External Collaborator"
         },
         {
