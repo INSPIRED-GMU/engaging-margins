@@ -14,7 +14,7 @@ export default function Landing(){
     <p className='text-xl'><span className='font-bold'>Eligibility</span> <p>18 or older, engages with technology frequently</p></p></div>
     <div className='flex content-center self-center place-content-center my-5'>
     <p className='text-xl'><span className='font-bold'>Time commitment</span> <p>10 mins</p></p></div>
-    <button className='btn glass btn-disabled'><a href='#'>SURVEY CLOSED</a></button>
+    <button className='btn btn-primary'><a href='https://utexas.qualtrics.com/jfe/form/SV_aUU2AaC9exSaIQK'>TAKE OUR SURVEY</a></button>
     </div>
 
   </div>
