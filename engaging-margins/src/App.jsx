@@ -8,6 +8,7 @@ import About from './components/about'
 import Team from './components/team'
 import Goals from './components/goals'
 import Contact from './components/contact'
+import Resources from './components/resources'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <About/>
       <Team/>
       <Goals/>
+      <Resources/>
       <Contact/>
     </>
   )

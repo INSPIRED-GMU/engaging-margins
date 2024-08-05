@@ -11,6 +11,7 @@ export default function NavBar(){
       <li><a href="#about">About</a></li>
       <li><a href="#team">Team</a></li>
       <li><a href="#goals">Goals</a></li>
+      <li><a href="#goals">Resources</a></li>
       <li><a href="#contact">Contact</a></li>
       
     </ul>
